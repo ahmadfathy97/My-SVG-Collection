@@ -1,3 +1,2 @@
-# pizza🍕
-## pizza with svg and sass
-## you can take a slice from [here](https://s.codepen.io/ahmadfathy/debug/KKPvBLd/XBAGRqRxZoNr "PIZZA")
+# My SVG collection ☺️
+## you can see it on [codepen](https://codepen.io/collection/DEmKKk "SVG collection")
