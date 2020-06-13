@@ -11,5 +11,6 @@
 * [🗼 Evil Towe](https://codepen.io/ahmadfathy/full/rZBeRR "Evil Tower")
 * [📋 Check Box](https://codepen.io/ahmadfathy/full/QVBXGK "Check Box")
 * [🎩 Magic Form](https://codepen.io/ahmadfathy/full/GQeRzw "Magic Form")
+* [🚰 Water Tap](https://codepen.io/ahmadfathy/full/gOPMWjb "Water Tap")
 
 ## you can see the collection [here](https://codepen.io/collection/DEmKKk "SVG collection")
